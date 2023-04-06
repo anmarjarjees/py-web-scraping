@@ -2,7 +2,7 @@
 Quick demo about using **Web Scraping with Python**.
 
 # Instructions for running this repo locally:
-1. Download the all the files into a single folder with any name you prefer:
+1. Download the following files into a single folder with any name you prefer:
     - app1.py
     - app2.py
     - requirements.txt
